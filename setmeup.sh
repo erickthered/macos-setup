@@ -74,6 +74,7 @@ code --install-extension ms-toolsai.jupyter
 code --install-extension rangav.vscode-thunder-client
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-vscode-remote.vscode-remote-extensionpack
+code --install-extension Continue.continue
 
 # Copy tmux configuration
 cp .tmux.conf $HOME/.tmux.conf
