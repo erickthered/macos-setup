@@ -22,13 +22,16 @@ brew install ollama
 brew install --cask spotify
 brew install --cask vlc
 
-# Install CLI applications
+# Install CLI applications and CLI dev tools
+brew install openjdk@21
 brew install neovim
 brew install tmux
 brew install nvm
 brew install pyenv
 brew install ffmpeg
 brew install imagemagick
+
+nvm install lts
 
 # Install LazyVim
 brew install --cask font-jetbrains-mono-nerd-font
