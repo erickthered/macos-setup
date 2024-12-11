@@ -55,3 +55,6 @@ rm -rf ~/.config/nvim/.git
 # Configure vscode
 mkdir -p $HOME/Library/Application\ Support/Code/User
 cp ./vscode/settings.json $HOME/Library/Application\ Support/Code/User
+
+# Copy tmux configuration
+cp .tmux.conf $HOME/.tmux.conf
