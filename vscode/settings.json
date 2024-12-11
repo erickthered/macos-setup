@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "git.autofetch": true,
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "top"
+}
