@@ -26,12 +26,16 @@ brew install --cask vlc
 brew install openjdk@21
 brew install neovim
 brew install tmux
+brew install tcl-tk
 brew install nvm
 brew install pyenv
 brew install ffmpeg
 brew install imagemagick
 
+source ~/.zshrc
+
 nvm install lts
+pyenv install 3.13
 
 # Install LazyVim
 brew install --cask font-jetbrains-mono-nerd-font
