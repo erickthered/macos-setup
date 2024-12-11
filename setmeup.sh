@@ -47,3 +47,7 @@ mv ~/.cache/nvim{,.bak}
 
 git clone https://github.com/LazyVim/starter ~/.config/nvim
 rm -rf ~/.config/nvim/.git
+
+# Configure vscode
+mkdir -p $HOME/Library/Application\ Support/Code/User
+cp ./vscode/settings.json $HOME/Library/Application\ Support/Code/User
