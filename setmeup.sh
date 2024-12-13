@@ -31,11 +31,11 @@ brew install handbrake
 brew install openjdk@21
 brew install neovim
 brew install tmux
-brew install tcl-tk
 brew install nvm
 brew install pyenv
 brew install ffmpeg
 brew install imagemagick
+brew install python-tk python
 
 source ~/.zshrc
 
@@ -49,6 +49,7 @@ brew install --cask font-arimo-nerd-font
 brew install fd
 brew install lazygit
 brew install ripgrep
+brew install fzf
 
 ## Backup nvim configuration
 mv ~/.config/nvim{,.bak}
