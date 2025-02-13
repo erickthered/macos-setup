@@ -1,0 +1,8 @@
+foreground = ffffff
+background = 282c34
+
+font-size = "14"
+font-family = "Hack Nerd Font Propo"
+
+window-height = "40"
+window-width = "120"
