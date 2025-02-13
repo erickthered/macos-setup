@@ -46,7 +46,7 @@ cp ./ghostty/config ~/.config/ghostty/config
 source ~/.zshrc
 
 nvm install lts
-pyenv install 3.13
+pyenv install $(pyenv latest -k 3)
 
 # Install LazyVim
 brew install --cask font-jetbrains-mono-nerd-font
