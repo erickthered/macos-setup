@@ -47,6 +47,7 @@ pyenv install 3.13
 brew install --cask font-jetbrains-mono-nerd-font
 brew install --cask font-dejavu-sans-mono-nerd-font
 brew install --cask font-arimo-nerd-font
+brew install --cask font-hack-nerd-font
 brew install fd
 brew install lazygit
 brew install ripgrep
