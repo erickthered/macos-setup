@@ -38,6 +38,11 @@ brew install ffmpeg
 brew install imagemagick
 brew install python-tk python
 
+# Configure Ghostty
+echo -n "export TERM=xterm-256color" >> ~/.zshrc
+mkdir -p ~/.config/ghostty
+cp ./ghostty/config ~/.config/ghostty/config
+
 source ~/.zshrc
 
 nvm install lts
