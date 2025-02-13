@@ -16,6 +16,7 @@ brew install --cask maccy
 brew install --cask alt-tab
 brew install --cask keycastr
 brew install --cask iterm2
+brew install --cask ghostty
 brew install --cask visual-studio-code
 brew install --cask shottr
 brew install --cask appcleaner
